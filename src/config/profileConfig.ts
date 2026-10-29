@@ -23,7 +23,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: "GitHub",
       icon: "fa7-brands:github",
-      url: "https://github.com/horoscope963852",
+      url: "https://github.com/Qhor",
     },
     /*		{
 			name: "Codeberg",

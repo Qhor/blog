@@ -28,8 +28,8 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/horoscope963852/Mizuki_blog.git
-cd Mizuki_blog
+git clone https://github.com/Qhor/blog.git
+cd blog
 npm install -g pnpm
 pnpm install
 pnpm dev

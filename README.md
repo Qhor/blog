@@ -28,8 +28,8 @@ A personal blog built with [Astro](https://astro.build), based on the [Mizuki](h
 ## Quick Start
 
 ```bash
-git clone https://github.com/horoscope963852/Mizuki_blog.git
-cd Mizuki_blog
+git clone https://github.com/Qhor/blog.git
+cd blog
 npm install -g pnpm
 pnpm install
 pnpm dev

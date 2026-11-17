@@ -24,12 +24,9 @@ const diaryData: DiaryItem[] = [
   {
     id: 20,
     content:
-      "也许我应该做一名网路工程是而不是硬件工程师。为了提升看片体验研究了一天如何让代理软件和去广告软件共存，但是非常充实。",
+      "网络真是精妙啊，和chatgpt聊了一整天终于设计好了一套完美的网络架构，施工完成才发现被IPv6坏了好事......可恶！",
     date: "2026-11-16T12:20:32Z",
-    images: [
-      "/images/diary/20261116_1.png",
-      "/images/diary/20261116_2.png",
-    ],
+    images: ["/images/diary/20261116_1.png", "/images/diary/20261116_2.png"],
   },
 
   {

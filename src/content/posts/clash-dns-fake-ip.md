@@ -4,10 +4,10 @@ published: 2026-11-16
 description: "以访问 ChatGPT 为例，画图对比 fake-ip、redir-host 和系统 DNS，解释 Clash 域名分流、DNS 泄露的验证方法与 VPS DNS 解锁。"
 tags: ["Clash", "Mihomo", "DNS", "代理", "Wireshark"]
 category: "网络技术"
-draft: false
+draft: true
 ---
 
-（本文由AI整理和生成）
+（本文由 AI 协助整理）
 
 浏览器打开 `chatgpt.com` 后，Clash 可以把网页流量发给新加坡节点。与此同时，电脑也可能已经向本地运营商查询过这个域名。网页能打开，甚至测到的出口 IP 也在新加坡，这两件事都无法单独说明域名是在哪里解析的。
 
